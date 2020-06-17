@@ -48,9 +48,9 @@ The project will be available at **127.0.0.1:8000**.
 
 - Register 
 
-![](Dashboard/Dashboard/static/register.png)
+![](Dashboard/static/register.png)
 
 - Dashboard
 
-![](Dashboard/Dashboard/static/dashboard.png)
+![](Dashboard/static/dashboard.png)
 
