@@ -35,6 +35,11 @@ python manage.py runserver
 The project will be available at **127.0.0.1:8000**.
 
 
+
+
+!()[IoT-Dashboard.png]
+
+
 **If you got error follow this link** [Stackoverflow Link](https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a "Stackoverflow Link")
 
 
