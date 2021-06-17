@@ -4,6 +4,8 @@ Dashboard project which runs command on IoT Platform and collect information.
 
 #development branch changes 17th June
 
+#rebase development 17th June
+
 
 For required libraries we added requirements.txt file in this project, you just to follow this command.
 
