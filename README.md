@@ -2,6 +2,7 @@
 
 # Reached Nagpur on 17th June
 
+#Reached Hoskote - Master
 Dashboard project which runs command on IoT Platform and collect information.
 
 #Gaurav's Master
